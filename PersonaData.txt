@@ -1,0 +1,62 @@
+Problem:       How can we help the books that are lying in shelf to lend to other readers in their neighbourhood? How to make this happen?
+               
+Solution Part:: Research
+------------------------
+
+Persona choose y? Am interested to give my book to rent? Regular Buyers do what after reading done?
+                  How can we help the <<Persona>>who regularly buys <<Categories>> to do rent it out/ to other readers?
+
+1.Which Persona to target ?
+2.Specific category of books to look at?                  
+
+    Category Choose y? STudents-Textbooks/
+                    24-30 age - Novels maybe!
+                    Business Books
+                    Above 30 age group -- May ask about Libraries. Whats your view on libraries? Do you avail membership in libraries if new collection is there?
+                                          If your interested books delivered into your doorstep from library, would you prefer to avail memberships?
+                                          In this digital age, are libraries necessary?
+                                          Do you stil prefer to go to libraries for reading or you prefer your own new book for reading ?
+                                          If he/she has their own Library/Shelf.What do you think idea of renting your books out?
+                                          What do you expect if your book has been picked up and read by new reader?
+                                          What do you think about the service if books arrive at your doorstep?
+                                          Would you mind going and picking it up from local neighbourhood/ common point/ delivered at your home? 
+3.Assumptions to use the application:
+     a. Reader will borrow book instead of buying it?
+     b. Book owners are willing to lend books to other readers?
+     c. Rentee's will return the borrowed book without any damage in same condition as recieved?
+     d. They wil communicate with each other and interchange books on their own?
+     f. There won't be any disputes between then during the interchange process?
+     g. They will be compliant to the norms as mentioned?  Lost book replacement/BookPrice payment/Uptodatepayment once returned?
+     h.
+ 
+Where do we have to target? Age group/BookGennres/KindOfBooks
+                            Amazon/Publishers
+
+E-Book readers:
+---------------
+Would he/she knows libraries?
+
+Challenges:
+-----------
+Volume? Crowdsource library?
+
+
+
+
+Persona Example:
+---------------
+If a person working in ITPark, have hunt for books
+Persona---IT Employees 
+Category-- Management books
+
+Persona -- Colleges
+Category-- Novels
+
+Persona --Middle-Aged-Above 35
+Category -- Libraries
+
+Persona -- Specifically to InfosysEmployees/Bosch/
+
+Persona -- Public Libraries/CollegeLibraries
+Persona -- PersonalLibraries(Local Retailers)
+Persona -- BookSellers/Stores etc..
