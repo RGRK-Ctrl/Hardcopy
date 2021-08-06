@@ -1,0 +1,278 @@
+People buy and read many books per year which are hardcopies. After reading it is of no use as they are laid down in their shelves for life until some one uses them andit goes on.
+What if we can create a platform for all the already read books by owner to put it in our platform which can be used by other customers on renting it 
+After booking the book, the owner has to drop it in the deposit centers showing the booking id and customer who wants to read them must be done in specific time period,so that when they are done it will be returned to next customer or owner by himself.
+ or 
+
+We can create a 'SPACE' for the book transactions like these under someone in their homes or nearby deposit centers once the order is placed. So that who have placed the order has to come an pickup in their time line stated while booking.
+Depositers has to verify the quality of the book whever they recieve it.
+Everybook must be verified about the quality and who is the publisher of the book in which we should have the barcode scanner for it to verify. So that the mafia who are making copies of original books can be identified and not added to the booking list.
+
+1.We can donate 1Rupee for every book customer reads and we can display how much rupees that he/she indirectly donated.
+2.Each book can have different prices depending upon the release date ofit and popularity in market or marketing of it.
+
+Registration costs: 200
+while booking we can reduce some x% rupees on their total purchase value.
+
+Pros:
+----
+It can be adaptable every where all around the world.
+
+Mission:
+--------
+Make all the books available in market to all the customers including people who are not be able to afford it.
+Increase the percentage of people who are book readers. With this platform we can set goals or create a interest in them that they have to read this manybooks to get something that they can be excited about.
+
+On achieving enough recognition this company can provide support to authors 
+
+Cons:
+-----
+One thing is we need to act fast and smart in development of it and customer service too.
+
+
+
+
+
+
+
+
+
+
+One liner:
+
+A feature packed mobile application which creates a platform for the users to make their purchased books(novels, textbooks etc..) 
+available to other users who intends to read with a least rental expense.
+
+
+
+
+
+
+
+
+
+Pitches:
+We, as a team dedicatedly working on the idea of book renting business model where its prime objective 
+is the availability and affordability of a book to our users and we would be delighted to have you being a part of our survey.
+
+Myself & my team is working on Portfolio named as HARDCOPY which can resolve a problem of regular readers. 
+Many novels which are purchased by students are left unused after they done reading.
+What if we can generate most of its usage? 
+We are a mobile platform where unused books are kept online for renting. By this we will be able to provide books to all the ones who can’t afford and owners can
+update their books & have a chance to earn money as a benefit.
+
+
+
+
+We, as a team working around the clock to implement the idea of book renting with an efficient business model, and this questionnaire is prepared to understand individual's 
+habitution of reading books and perception towards renting. We would be delighted if you are a part of our survey.
+
+
+
+
+
+  
+
+
+Population: FY2019
+
+Education:
+
+https://www.ibef.org/industry/education-presentation
+
+Approximately 29 per cent of India’s population in the age group of 0 to 14 years
+500 million in the age bracket of 5-24 years ---- >250 million School going students.
+Number of colleges --  52627   (FY18 --39,050)
+Universities in India--- 100    
+https://en.wikipedia.org/wiki/Higher_education_in_India#:~:text=Across%20the%20country%2C%20tertiary%20enrollment,29.2%20million%20enrolled%20in%202011.
+
+English Proficiency Index  --- 34 out of 100 Countries.
+
+
+https://publishingperspectives.com/2016/04/india-book-market-industry-status/#:~:text=A%20'Vibrant%2C%20Influential%2C%20and%20Significant%20Sector'&text=A%202009%20National%20Youth%20Readership,are%20self%2Didentified%20book%20readers.
+https://thebestschools.org/magazine/real-books-superior-ebooks/
+
+
+
+Employment:
+https://www.statista.com/statistics/320729/india-it-industry-direct-indirect-employment/
+
+15 million directly and indirectly employed personnel during financial year 2017 ---Indian IT-BPM industry
+
+
+
+
+
+
+Online book renting business model:
+https://www.slideshare.net/saurabhmhase9/online-book-rental-system-business-plan
+https://www.slideshare.net/suryasingh24/business-plan-for-44115681
+
+https://www.business-standard.com/article/companies/sales-of-second-hand-books-pick-up-online-114010400528_1.html#:~:text=Estimated%20at%20over%20%242%20billion,.com%2C%20secondhandbooksindia.com
+https://indianprinterpublisher.com/blog/2018/09/26/printed-books-sales-grow-at-a-healthy-clip-in-india/
+
+
+
+
+
+
+
+
+Private domains:
+colleges(Intermediate,Btech,Degree,PG,....) Around 37 million students are enrolled in colleges in FY2019  
+IT companies--campuses (Area wise)
+Schools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCT STATEMENT
+
+
+PRODUCT NAME : HARDCOPY
+
+
+OVERVIEW
+Why should this product exist? What are the business reasons and objectives for
+putting out this product?
+
+People buy and read many books all the time. After reading them, they are of no use as they are laid down 
+in their shelves until some one uses them and it goes on again.
+
+What if we can create a platform for all the already read books by owner to put it in our platform which can be used by other
+customers on renting it and returning once they are done.
+
+Main objective is crowdsourcing the resources available and making use of it the most.
+resources are textbooks,novels,meterials.
+
+
+
+
+PROJECT TEAM
+List the project team members and their roles
+
+
+
+TARGET USERS
+Who are you designing for? What will they do with the product? When will they use
+the product? How will they access the product?
+
+
+Who? Students from colleges, working IT employees, who wants to earn after reading their favourite books.
+What? This platform allows individuals to search which books are available in his respected college or MNC campus or his current location.
+      Typically he/she can rent a book and returns to its owner after reading. 
+When? Mostly when their favourite book released and read by some other person and updates in our portal for rentals.
+
+
+
+
+
+USERS PROBLEMS WE WILL RESOLVE
+What are the main user needs our product must address? How will the product
+address these issues?
+
+Need1: Find favourite book in nearby location
+Resolution: The product allows address based search for the existing books or preferred books in specified location.
+
+Need2:To make books available for rent to other readers who are interested in their locality.
+Resolution: Core feature of the product is the renting a book model .
+
+Need3: To purchase that book if you really liked  it
+Resolution: He/She can purchase that book permenantly after renting it.
+
+
+CORE USER STORIES
+Describe the key functions that users will be able to perform. These core tasks must
+focus on functionality and should not hint at design elements. This section should
+include a link to the detailed user story backlog as a reference.
+
+User can:
+Search for a book and his location
+Search for book in specified external location or in which location that particular book exists.
+Upload his/her book and its available for rent and their location too.
+See the each book count available in user's location.
+See the total number of books available in their location.
+Rent a book with given specified date of return.
+view his/her activity of participation in reading in their profile 
+View how much money he earned while giving renting books alone.
+view how much money he spent for reading books.
+view their reading ability and will provide steps to improve reading skills for free of cost.
+
+
+
+COMPETITORS
+List your core competitors along with a short description of about how they position
+themselves in the market. State whether their product is available via web, an app or
+both.
+
+chegg.com
+Book Publishing houses
+Second hand book sellers
+Pirated copy sellers
+
+
+core funtions available
+pros
+cons
+pricing
+
+RELATED DCUMENTATION
+List and link to any existing documentation connected to the project. You can also
+include documents that are still pending creation.
+
+Technical Overview
+Technical Architecture
+Links to UXPin Prototypes
+Terms of Use
+Privacy Policy
+HIPAA Regulations
+Health Information Policy
+
+
+
+PRICING
+If you’re creating a paid product, explain how the market positioning  in terms of
+pricing. Will it be low, medium, or high-end?
+If approximate prices are already available, include that information. In many cases
+the pricing becomes clear as the project progresses. The product manager should
+indicate that pricing is TO BE DETERMINED and follow-up with the appropriate
+decision-makers so that the information is added to this document as soon as it’s
+available.
+
+TO BE DETERMINED
+
+
+
+
+DEPENDENCIES
+List any dependencies that might affect this project.
+For example, are there sufficient development and UX design resources? Are there
+team members with a planned absence during the duration of the project (e.g.
+planned maternity leave)? Explain the contingency plan for accommodating the
+absence. Does the release of this product depend on hiring additional staff or on the
+release of another product?
+
+PRODUCT RELEASE DATES
+Indicate the expected release date for the product. If there are any business
+dependencies (e.g. must be ready in time for a big trade show) include that
+information here. Information in this section may have to be verified by or updated by
+the Product Officer or Product VP depending on organizational structure.
+
+PRODUCT LAUNCH TACTICS
+Provide a summary of the anticipated marketing plan for this product. If there isn’t
+enough visibility at the start of the project into the planned marketing tactics, leave
+this section empty and mark it as to be TO BE DEFINED. The Product Manager
+should update this section once more information is available or follow-up with
+Marketing and Brand team(s) to ensure that they update this section accordingly.
+To be determined for now.

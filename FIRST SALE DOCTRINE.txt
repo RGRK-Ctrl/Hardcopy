@@ -1,0 +1,54 @@
+First Sale Doctrine
+
+
+A rudimentary understanding of Copyright Law might make us think that reselling of books is illegal and infringes on the copyright 
+of the author or the publisher. Fortunately, this is not the case. The reselling of books is protected by the concept of 
+“First Sale Doctrine”. This doctrine finds its roots in American law and is part of their codified law. Indian law too
+ recognises it in the Indian Copyright Act.
+
+
+The First Sale Doctrine mandates that when an object containing a copyright is sold, the rights of the
+ copyright owner with regards to that object are extinguished. This allows the article to be resold, rented or to be disposed of in
+ any manner by the buyer. This does not mean that all the rights (like the right to reproduce) are extinguished as those continue to 
+vest with the copyright owner. For example, if I write a book and sell it to you, you can sell that copy to another person. 
+However, the right to create more of these books remains with me.
+
+
+Why is this doctrine necessary?
+Because otherwise, every subsequent sale of an object which contains a copyright would require
+negotiations with the copyright owner. The implications of this are far more serious than are apparent at first glance.
+
+
+It would, of course, mean the death knell of the second-hand book and CD market. But that’s not all. 
+It would also mean that you could not sell your TV to someone without negotiating with the owner of the 
+copyright used in the software which runs in it. The same principle would apply to your car, 
+your portable music player, your mobile phone, and so on. With software being an intrinsic part of every “smart” device, 
+copyright has seeped into everyday life. The doctrine ensures that everyday transactions are spared this extra layer of negotiations.
+
+
+Clearly, it has tremendous potential for good. However, it also has, well, potential for other things.
+
+In the Wiley series of cases in the USA as well as in India, an unintended use of the 
+doctrine came to light. Wiley is a well-known publishing company which publishes books all across the world. 
+It produces low-cost editions of its books in developing countries. The difference between the costs across countries is significant. 
+It gave some enterprising individuals the idea that they could buy 
+those low-cost books in developing countries (like India and Thailand), ship them to the USA, and sell them there. 
+They could then undercut Wiley’s own books by a margin.
+
+
+Wiley filed lawsuits both in the USA and India, claiming a right to prevent these books from being sold. 
+Interestingly, the Indian courts ruled in Wiley’s favour while the American courts have ruled against Wiley on the basis of the
+First Sale Doctrine.
+
+However, the doctrine is still recognised in Indian law, and if you are not commercially seeking to 
+benefit from copyrights owned by other people on a large scale without their permission, you don’t have to worry. 
+The doctrine still protects people like you and me who just want to sell used things to people who might make use of them. 
+So the next time you pass a market for old books, don’t worry about the legality of buying or selling there.
+
+
+Source: http://scroll.in/article/750237/can-you-sell-your-old-books-without-breaking-the-law
+
+
+
+
+
