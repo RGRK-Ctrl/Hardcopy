@@ -1,0 +1,55 @@
+UCD CANVAS:
+
+1.BUSINESS:
+
+   HARDCOPY: Online book renting platform where users play both roles lessors/Lesses according to their respective locations
+           i.e.. college,ofc campus, rresidential area/Area nearby/.
+
+2.USERS:
+   College/University Students who are interested to read books/novels of all kinds whatever they like.
+   Software employees who reads in their free time.
+   Normal public too.
+
+3.PROBLEMS:
+   Wants to read books written by specific author but can't afford it.
+   Escape from internet and its distractions and use their quality time for reading.
+   Taking space for storage of books in home.
+   Not being able to read e-books for a long time due to lot of exposure to computer screen in their day time
+   Libraries gives storage but not enough books required.
+   E-book cannot be shared in kindle or other online platforms but using this platform you can rent and share it to them for reading.
+   Wants an escape from computer/smartphone/internet world 
+
+4.MOTIVES
+   Wants an escape from computer/smartphone/internet world but to get satisfaction for that time spent reading something.
+   The physical touch & feel of printed books is the quality most of the readers love and smell of the books is one of the lovely experience that
+		a book lover is very attached to.
+   Pleasure of reading a printed book cannot be replaced by handheld device.
+   Writing reviews of newly published book or your favourite book and sharing to the your peers is affectionate towards the learning experience.
+
+5.FEARS
+   Fines for not delivering on time
+   Rentor wont return the book on delivery time specified or won't return at all / returned with a damage/ no update about the delivery date and time.
+   Money didn't came back as specified.
+   Waste of initial investment for creating the account.(optional)
+   Owner couldn't deliver to borrower as mentioned or vice versa.
+   Fights between rentor/rentee over the quality of book or pricing.
+
+6.SOLUTIONS
+   Listing all the books available in their area / area where required book is availaable.
+   Accessible to all the books without buying it or having a separate storage space occupied in home.
+   They can earn money if they can keep their book online for rent to other customers.
+
+7.ALTERNATIVES
+   Buying a new book or pirated book from street bookshops
+   Borrow from a friend/relative.
+
+8.COMPETATIVE ADVANTAGES  
+   Delivery within specified time by owner
+ 
+9.UNIQUE VALUE PROPOSITION
+   It's on online platform where users rent/borrow books with less affordable prices and earning simultaneously while continuing their hobby 
+   reading hardcopies.
+   Adds value and experience to life while reading and doing business as well.
+
+
+   
