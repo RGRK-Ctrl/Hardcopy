@@ -1,0 +1,44 @@
+Background story;
+------------------
+
+Rajiv: Working in HCL, Immersive reader, Buys& Reads only paperback copies, Had a bag of books at his flat remains idle waiting to get messy.
+John: Working in HCL, The Physical Book Loyalist, won't like to spend huge amounts on one time read fictitious novels, likes to borrow from friends.
+
+
+
+
+Script:
+------
+Rajiv working in HCL company in Banglore Jigani campus as a Software Developer. He is an Immersive reader, purchases novels which excites him to read.
+He had a many collections of good books in his flat but left unused after done readng.
+He lent many of his novels to friends, collegues etc....but some never came back or lost somewhere so he finds it troubling to loose books for nothing.
+
+John on the other end is 'The Physical Book Loyalist' but wouldn't like to spend much on novels which he will read only once.
+So he likes to borrow novels from friends mostly which are available with them. But he couldn't find good collection of books by which he can't have options to choose.
+
+Thats where HARDCOPY comes in.
+We as a platform will connect Rajiv to the enthusiastic readers like John from same campus who are interested to borrow novels for a certain period 
+and returns after they done reading it.
+
+John will send request for the Novel for a couple of weeks which costs him Rs.X/- to Rajiv since he added the required novel along with many other 
+books to his inventory list in HARDCOPY.
+Other collegues from same campus can also request the other available books from Rajiv and can be interchanged by them in the campus itself once Rajive accepted their requests.
+
+By using HARDCOPY, Rajiv gets to meet new collegues who can resonate with his tastes and grow his network of readers in his campus and John gets to choose a book from 
+the collection available in the campus and then borrow, read & returns them with least expense.
+Also HARDCOPY provides the assurance of Rajiv's books which are rented out and in addition to it he will get monetary benefits too for making his
+book available for others to read.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
